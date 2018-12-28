@@ -6,16 +6,16 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2017/quizzes/geo-quiz-2017"
+      "path": "2018/quizzes/politics-quiz-2018"
     }
   },
   "title": "",
   "description": "",
-  "url": "http://projects.seattletimes.com/2017/quizzes/geo-quiz-2017/",
+  "url": "http://projects.seattletimes.com/2018/quizzes/politics-quiz-2018/",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/social.jpg",
   "sheets": ["1JS2ocK4y_JvhBPN8deWwE7_YdPvQJ0KL5SywuS3Vdg0"],
-  "production": true,
+  "production": false,
   "embedded": true
 }
