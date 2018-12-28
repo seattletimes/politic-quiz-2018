@@ -1,0 +1,26 @@
+[
+  {
+    "min": 0,
+    "max": 10,
+    "title": "Level One",
+    "description": "Stowaway (Keep the lavatory door locked until takeoff)"
+  },
+  {
+    "min": 11,
+    "max": 25,
+    "title": "Level Two",
+    "description": "Coach (Board early or the bins will be full)"
+  },
+  {
+    "min": 26,
+    "max": 35,
+    "title": "Level Three",
+    "description": "Business Class (Double peanuts for you)"
+  },
+  {
+    "min": 36,
+    "max": 44,
+    "title": "Level Four",
+    "description": "First Class (Have an extra flute of Pol Roger)"
+  }
+]

@@ -1,0 +1,25 @@
+<div class="inner">
+  <h2>{{section}}</h2>
+  
+  {{#image}}
+  <div class="inset-image">
+    <img src="./assets/{{image}}.jpg">
+    <div class="caption">{{caption}}</div>
+  </div>
+  {{/image}}
+
+  <div class="question-inner">
+    <div class="question">
+      <div class="index"></div>
+      {{question}}</span></div>
+
+    {{#answers}}
+      <p class="option">
+        <input type="radio" value="{{correct}}" name="answer" id="{{index}}">
+        <label for="{{index}}">{{answer}}</label>
+      </p>
+    {{/answers}}
+
+    <button class="submit" disabled><i class="fa fa-check"></i> Submit</button>
+  </div>
+</div>

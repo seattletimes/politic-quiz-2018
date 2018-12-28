@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href='http://fonts.googleapis.com/css?family=Paytone+One:700,400,300' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <%= t.include("partials/_head.html") %>
+  </head>
+  <body>
+
+    <responsive-child>
+
+    <div class="outer">
+
+      <div class="quiz-container">
+
+        <div class="divider"></div>
+
+        <div class="quiz-box"> 
+
+          <!-- START OF QUIZ -->
+          <div class="question-box"></div>
+
+        </div>
+
+        <div class="divider"></div>
+
+      </div>
+    </div>
+
+    </responsive-child>
+
+    <script>
+      <% 
+        var quizData = {};
+        json.Quiz_Questions.forEach(function(q) {
+          quizData[q.id] = q;
+        });
+        json.Quiz_Answers.forEach(function(a, index) {
+          var id = a.id;
+          a.index = index;
+          if (!quizData[id].answers) { quizData[id].answers = [] }
+          quizData[id].answers.push(a);
+        });
+      %>
+      var quizData = <%= JSON.stringify(quizData) %>;
+      var resultsData = <%= JSON.stringify(json.Quiz_Results) %>;
+      var configData = {
+        title: "<%= json.project.title %>",
+        description: "<%= json.project.description %>",
+        url: "<%= json.project.url %>"
+      }
+    </script>
+
+    <script src="app.js"></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>

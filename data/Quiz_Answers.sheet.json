@@ -1,0 +1,750 @@
+[
+  {
+    "id": 1,
+    "answer": "Reykjavik"
+  },
+  {
+    "id": 1,
+    "answer": "Pyongyang"
+  },
+  {
+    "id": 1,
+    "answer": "Karachi"
+  },
+  {
+    "id": 1,
+    "answer": "Novosibirsk",
+    "correct": "The Samoyed breed originated in the Siberian region of Russia. Novosibirsk is a city in Siberia."
+  },
+  {
+    "id": 2,
+    "answer": "Wiesbaden",
+    "correct": "Wiesbaden is a city in Germany."
+  },
+  {
+    "id": 2,
+    "answer": "Amsterdam"
+  },
+  {
+    "id": 2,
+    "answer": "Bucharest"
+  },
+  {
+    "id": 2,
+    "answer": "Kiev"
+  },
+  {
+    "id": 3,
+    "answer": "Antwerp"
+  },
+  {
+    "id": 3,
+    "answer": "Lille",
+    "correct": "Lille is a city in France."
+  },
+  {
+    "id": 3,
+    "answer": "Darwin"
+  },
+  {
+    "id": 3,
+    "answer": "Algiers"
+  },
+  {
+    "id": 4,
+    "answer": "Sierra Nevada Brewing"
+  },
+  {
+    "id": 4,
+    "answer": " Lagunitas Brewing"
+  },
+  {
+    "id": 4,
+    "answer": " Left Coast Brewing Co."
+  },
+  {
+    "id": 4,
+    "answer": "Deschutes Brewery",
+    "correct": "Deschutes Brewery originated in Oregon."
+  },
+  {
+    "id": 5,
+    "answer": "Ninkasi Brewing Co.",
+    "correct": "Ninkasi is based in Eugene, Oregon."
+  },
+  {
+    "id": 5,
+    "answer": "10 Barrel Brewing Co."
+  },
+  {
+    "id": 5,
+    "answer": "Crux Fermentation Project"
+  },
+  {
+    "id": 5,
+    "answer": "Boneyard Beer"
+  },
+  {
+    "id": 6,
+    "answer": "Chicago, Illinois"
+  },
+  {
+    "id": 6,
+    "answer": " Montpelier, Vermont"
+  },
+  {
+    "id": 6,
+    "answer": "Yakima, Washington",
+    "correct": "Grant's Brewery Pub, Yakima"
+  },
+  {
+    "id": 6,
+    "answer": "Taos, New Mexico"
+  },
+  {
+    "id": 7,
+    "answer": "Pike Brewing Co."
+  },
+  {
+    "id": 7,
+    "answer": "Holy Mountain Brewing Co."
+  },
+  {
+    "id": 7,
+    "answer": " Ivar’s IPAs",
+    "correct": "Ivar’s is a seafood restaurant, not a brewery. "
+  },
+  {
+    "id": 7,
+    "answer": "Mollusk Brewing"
+  },
+  {
+    "id": 8,
+    "answer": "North Korea"
+  },
+  {
+    "id": 8,
+    "answer": "Azerbaijan"
+  },
+  {
+    "id": 8,
+    "answer": "Iran",
+    "correct": "x"
+  },
+  {
+    "id": 8,
+    "answer": "Norway"
+  },
+  {
+    "id": 9,
+    "answer": "Greenland",
+    "correct": "x"
+  },
+  {
+    "id": 9,
+    "answer": "Manitoba"
+  },
+  {
+    "id": 9,
+    "answer": "Shetland Islands"
+  },
+  {
+    "id": 9,
+    "answer": "Gulf of Alaska"
+  },
+  {
+    "id": 10,
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 10,
+    "answer": "Madagascar"
+  },
+  {
+    "id": 10,
+    "answer": " Perth, Australia"
+  },
+  {
+    "id": 10,
+    "answer": " Angola",
+    "correct": "x"
+  },
+  {
+    "id": 11,
+    "answer": "Cedar Rapids, Iowa"
+  },
+  {
+    "id": 11,
+    "answer": "Memphis, Tennessee",
+    "correct": "x"
+  },
+  {
+    "id": 11,
+    "answer": "Lake Charles, Louisiana"
+  },
+  {
+    "id": 11,
+    "answer": "Evansville, Indiana"
+  },
+  {
+    "id": 12,
+    "answer": "Wyoming"
+  },
+  {
+    "id": 12,
+    "answer": "Illinois"
+  },
+  {
+    "id": 12,
+    "answer": "New Jersey"
+  },
+  {
+    "id": 12,
+    "answer": "None of the above",
+    "correct": "x"
+  },
+  {
+    "id": 13,
+    "answer": "Kentucky and West Virginia"
+  },
+  {
+    "id": 13,
+    "answer": "Alabama and Georgia",
+    "correct": "x"
+  },
+  {
+    "id": 13,
+    "answer": "Maine and New Hampshire"
+  },
+  {
+    "id": 13,
+    "answer": "Texas and Oklahoma"
+  },
+  {
+    "id": 14,
+    "answer": "Wyoming, Colorado and New Mexico"
+  },
+  {
+    "id": 14,
+    "answer": "Wisconsin, Illinois and Missouri"
+  },
+  {
+    "id": 14,
+    "answer": "Nebraska, Kansas and Oklahoma",
+    "correct": "x"
+  },
+  {
+    "id": 14,
+    "answer": "Montana, Utah and Arizona"
+  },
+  {
+    "id": 15,
+    "answer": "Nevada",
+    "correct": "x"
+  },
+  {
+    "id": 15,
+    "answer": "Arizona"
+  },
+  {
+    "id": 15,
+    "answer": " Idaho"
+  },
+  {
+    "id": 15,
+    "answer": "Arkansas"
+  },
+  {
+    "id": 16,
+    "answer": "Nebraska"
+  },
+  {
+    "id": 16,
+    "answer": "Florida",
+    "correct": "It’s believed Spanish explorer Juan Ponce de León bequeathed the name La Florida, “land of flowers.”"
+  },
+  {
+    "id": 16,
+    "answer": " Minnesota"
+  },
+  {
+    "id": 16,
+    "answer": "Mississippi"
+  },
+  {
+    "id": 17,
+    "answer": "New York"
+  },
+  {
+    "id": 17,
+    "answer": "North Dakota",
+    "correct": "x"
+  },
+  {
+    "id": 17,
+    "answer": "Wisconsin"
+  },
+  {
+    "id": 17,
+    "answer": "Massachusetts"
+  },
+  {
+    "id": 18,
+    "answer": "Yellowstone and Hells Canyon",
+    "correct": "The river originates in Yellowstone National Park in Wyoming before transiting Idaho, Oregon and Washington."
+  },
+  {
+    "id": 18,
+    "answer": "Craters of the Moon and Hanford Reach"
+  },
+  {
+    "id": 18,
+    "answer": "Mount Rainier and Lake Chelan"
+  },
+  {
+    "id": 18,
+    "answer": "Crater Lake and Oregon Dunes"
+  },
+  {
+    "id": 19,
+    "answer": "Billy Frank Jr. Nisqually National Wildlife Refuge"
+  },
+  {
+    "id": 19,
+    "answer": "Malheur National Wildlife Refuge"
+  },
+  {
+    "id": 19,
+    "answer": "Willapa National Wildlife Refuge"
+  },
+  {
+    "id": 19,
+    "answer": "Rocket J. Squirrel National Wildlife Refuge ",
+    "correct": "x"
+  },
+  {
+    "id": 20,
+    "answer": "Waitsburg, Washington"
+  },
+  {
+    "id": 20,
+    "answer": "Rexburg, Idaho"
+  },
+  {
+    "id": 20,
+    "answer": " Iceburg, British Columbia",
+    "correct": "x"
+  },
+  {
+    "id": 20,
+    "answer": "Coburg, Oregon"
+  },
+  {
+    "id": 21,
+    "answer": "Pilchuck, Whitehorse, Baker"
+  },
+  {
+    "id": 21,
+    "answer": "Ephrata, Lynden, Goldendale",
+    "correct": "These are towns. The others are mountain peaks."
+  },
+  {
+    "id": 21,
+    "answer": "Shuksan, Silver Star, Olympus"
+  },
+  {
+    "id": 21,
+    "answer": "Adams, St. Helens, Stuart"
+  },
+  {
+    "id": 22,
+    "answer": "John Adams"
+  },
+  {
+    "id": 22,
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": 22,
+    "answer": "Ulysses S. Grant"
+  },
+  {
+    "id": 22,
+    "answer": " Woodrow Wilson",
+    "correct": "x"
+  },
+  {
+    "id": 23,
+    "answer": "Jordan Valley"
+  },
+  {
+    "id": 23,
+    "answer": "Beirut",
+    "correct": "x"
+  },
+  {
+    "id": 23,
+    "answer": "Lebanon"
+  },
+  {
+    "id": 23,
+    "answer": "Damascus"
+  },
+  {
+    "id": 24,
+    "answer": "Kettle Falls, Washington",
+    "correct": "x"
+  },
+  {
+    "id": 24,
+    "answer": "Umatilla, Oregon"
+  },
+  {
+    "id": 24,
+    "answer": "Vancouver, Washington"
+  },
+  {
+    "id": 24,
+    "answer": "Clarkston, Washington"
+  },
+  {
+    "id": 25,
+    "answer": "Bitterroot"
+  },
+  {
+    "id": 25,
+    "answer": "Selkirk"
+  },
+  {
+    "id": 25,
+    "answer": "Wallowa"
+  },
+  {
+    "id": 25,
+    "answer": "Katahdin",
+    "correct": "Mount Katahdin is the highest peak in Maine."
+  },
+  {
+    "id": 26,
+    "answer": "You’re in Maui, your bags are in Portland",
+    "correct": "x"
+  },
+  {
+    "id": 26,
+    "answer": "Oklahoma City and Phoenix"
+  },
+  {
+    "id": 26,
+    "answer": "Orange County and Philadelphia"
+  },
+  {
+    "id": 26,
+    "answer": "Orlando and St. Petersburg"
+  },
+  {
+    "id": 27,
+    "answer": "You’re in Santa Fe, but your pooch is in Salt Lake City."
+  },
+  {
+    "id": 27,
+    "answer": "Sacramento and St. Louis",
+    "correct": "x"
+  },
+  {
+    "id": 27,
+    "answer": "San Francisco and St. Paul"
+  },
+  {
+    "id": 27,
+    "answer": "San Diego and San Jose"
+  },
+  {
+    "id": 28,
+    "answer": "You’re in New York City and your honeybunch is in Long Beach, Calif.",
+    "correct": "LGA is the code for New York's LaGuardia Airport."
+  },
+  {
+    "id": 28,
+    "answer": "Laguna Beach and Lagos"
+  },
+  {
+    "id": 28,
+    "answer": "London (Gatwick) and Lincoln, Neb."
+  },
+  {
+    "id": 28,
+    "answer": " Lake of the Woods, Minn., and Long Island, N.Y."
+  },
+  {
+    "id": 29,
+    "answer": "Brisbane"
+  },
+  {
+    "id": 29,
+    "answer": "Adelaide"
+  },
+  {
+    "id": 29,
+    "answer": "Billabong",
+    "correct": "x"
+  },
+  {
+    "id": 29,
+    "answer": "Sydney"
+  },
+  {
+    "id": 30,
+    "answer": "Mashpee, Massachusetts"
+  },
+  {
+    "id": 30,
+    "answer": " Mar-a-Lago Club, Florida"
+  },
+  {
+    "id": 30,
+    "answer": "Cabo San Lucas, Mexico"
+  },
+  {
+    "id": 30,
+    "answer": "Greenland",
+    "correct": "x"
+  },
+  {
+    "id": 31,
+    "answer": "Kenya"
+  },
+  {
+    "id": 31,
+    "answer": "Uganda"
+  },
+  {
+    "id": 31,
+    "answer": "Egypt",
+    "correct": "x"
+  },
+  {
+    "id": 31,
+    "answer": "Gabon "
+  },
+  {
+    "id": 32,
+    "answer": "Hudson Bay",
+    "correct": "Hudson Bay lent its name to the Hudson’s Bay Co., a 17th-century fur-trading company that morphed into a chain of stores across Canada known colloquially as The Bay."
+  },
+  {
+    "id": 32,
+    "answer": "Chesapeake Bay"
+  },
+  {
+    "id": 32,
+    "answer": "Mowich Lake"
+  },
+  {
+    "id": 32,
+    "answer": "Humptulips River"
+  },
+  {
+    "id": 33,
+    "answer": "Renault and France"
+  },
+  {
+    "id": 33,
+    "answer": "Volvo and Finland",
+    "correct": "Volvo originated in Sweden."
+  },
+  {
+    "id": 33,
+    "answer": "Bentley and Great Britain"
+  },
+  {
+    "id": 33,
+    "answer": "Audi and Germany"
+  },
+  {
+    "id": 34,
+    "answer": 7,
+    "correct": "The Oxford Atlas of the World shows Afghanistan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan and Uzbekistan."
+  },
+  {
+    "id": 34,
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "answer": 13
+  },
+  {
+    "id": 34,
+    "answer": "Gosh, they pretty much all do."
+  },
+  {
+    "id": 35,
+    "answer": 2
+  },
+  {
+    "id": 35,
+    "answer": 4
+  },
+  {
+    "id": 35,
+    "answer": 7
+  },
+  {
+    "id": 35,
+    "answer": 1,
+    "correct": "The Antarctic Circle touches only Antarctica and its surrounding seas."
+  },
+  {
+    "id": 36,
+    "answer": "The Aliens Have Landed Festival, Roswell, New Mexico"
+  },
+  {
+    "id": 36,
+    "answer": "Ice Cream Cone Hat Fest, New Orleans"
+  },
+  {
+    "id": 36,
+    "answer": "Samba Festival, Rio de Janeiro",
+    "correct": "x"
+  },
+  {
+    "id": 36,
+    "answer": "Spring Carnival, Salt Lake City "
+  },
+  {
+    "id": 37,
+    "answer": "Fiesta of the Snakes, Tijuana, Mexico"
+  },
+  {
+    "id": 37,
+    "answer": "Festival of Saint Thomas, Chichicastenango, Guatemala",
+    "correct": "The celebration evokes the migration of Mexicans to Guatemalan farms and honors the Mayan town’s patron saint."
+  },
+  {
+    "id": 37,
+    "answer": "Rattlesnake Roundup, Santa Fe"
+  },
+  {
+    "id": 37,
+    "answer": "Snake Eyes Festival, Las Vegas"
+  },
+  {
+    "id": 38,
+    "answer": "Dragonpalooza, Oakland, Calif."
+  },
+  {
+    "id": 38,
+    "answer": "Chinese Lantern Festival, Vancouver, B.C.",
+    "correct": "x"
+  },
+  {
+    "id": 38,
+    "answer": "Smaug Fest, Wellington, New Zealand"
+  },
+  {
+    "id": 38,
+    "answer": "Nessie Days, Loch Ness, Scotland"
+  },
+  {
+    "id": 39,
+    "answer": "Festival of Sankta Lucia, York, England",
+    "correct": "The traditional Swedish festival celebrates the bringer of light during the long winter. This event was run in partnership with the York Anglo-Scandinavian Society. "
+  },
+  {
+    "id": 39,
+    "answer": "Merlin's Magical Monday, Cardiff, Wales"
+  },
+  {
+    "id": 39,
+    "answer": "Candelabra Day, Stockholm"
+  },
+  {
+    "id": 39,
+    "answer": "Nathan Bedford Forrest's Birthday, Chapel Hill, Tennessee"
+  },
+  {
+    "id": 40,
+    "answer": "Night of the Scarlet Sword, Thimphu, Bhutan"
+  },
+  {
+    "id": 40,
+    "answer": "Red Clay Fest, Rabun County, Georgia"
+  },
+  {
+    "id": 40,
+    "answer": "Hibiscus Hoedown, Hilo, Hawaii"
+  },
+  {
+    "id": 40,
+    "answer": " Red Glass Festival, Munshigonj, Bangladesh ",
+    "correct": "Hindu males paint themselves red and wield swords to show power against evil and welcome the Bengali New Year."
+  },
+  {
+    "id": 41,
+    "answer": "The Big Finger, Hamburg"
+  },
+  {
+    "id": 41,
+    "answer": "One World Trade Center, New York City",
+    "correct": "Known colloquially as Freedom Tower. At 1,776 feet (yes, that was intentional), it is the tallest building in the Western Hemisphere."
+  },
+  {
+    "id": 41,
+    "answer": "Heaven's Gate, Houston"
+  },
+  {
+    "id": 41,
+    "answer": "Pacific Pillar, San Francisco"
+  },
+  {
+    "id": 42,
+    "answer": "Der Zahnstocher (The Toothpick), Berlin"
+  },
+  {
+    "id": 42,
+    "answer": "The Knitting Needle, Oklahoma City"
+  },
+  {
+    "id": 42,
+    "answer": "The Shard, London",
+    "correct": "At 1,020 feet, it is the tallest building in the United Kingdom."
+  },
+  {
+    "id": 42,
+    "answer": "The Cattle Prod, Dallas"
+  },
+  {
+    "id": 43,
+    "answer": " Marcus Whitman Hotel, Walla Walla"
+  },
+  {
+    "id": 43,
+    "answer": "Typewriter Tower, Topeka, Kansas"
+  },
+  {
+    "id": 43,
+    "answer": "Ivory Tower, Cambridge, Mass."
+  },
+  {
+    "id": 43,
+    "answer": "Smith Tower, Seattle",
+    "correct": "When built in 1914, at 484 feet Smith Tower was the tallest U.S. building west of the Mississippi."
+  },
+  {
+    "id": 44,
+    "answer": "Pompous Pyramid, Riyadh"
+  },
+  {
+    "id": 44,
+    "answer": "The Burj Khalifa, Dubai",
+    "correct": "At 2,722 feet, it has been the tallest free-standing structure on Earth since it topped out in 2008. "
+  },
+  {
+    "id": 44,
+    "answer": "The Stiletto, Milan"
+  },
+  {
+    "id": 44,
+    "answer": " State Farm Tower, Bloomington, Illinois"
+  }
+]
