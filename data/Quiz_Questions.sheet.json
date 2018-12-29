@@ -1,240 +1,50 @@
 [
   {
     "id": 1,
-    "question": "If you saw a Samoyed jump up on a dinner table to snitch a piroshki in the nation where the dog breed and the tasty stuffed buns originated, you might be in:",
-    "section": "Part One: HAUTE DOGS"
+    "question": "Where did Seattle Mayor Jenny Durkan deliver her State of the City address?"
   },
   {
     "id": 2,
-    "question": "If you saw a schnauzer jump up on a dinner table to snitch a bite of rouladen in the nation where the dog breed and the tasty rolled-beef dish originated, you might be in:",
-    "section": "Part One: HAUTE DOGS"
+    "question": "Whom did the city provide with free transit passes?"
   },
   {
     "id": 3,
-    "question": "If you saw a basset hound vainly trying to jump up on a dinner table to snitch a bite of coq au vin in the nation where the dog breed and the tasty chicken-and-wine dish originated, you might be in:",
-    "section": "Part One: HAUTE DOGS"
+    "question": "Which Seattle police chief finalist dropped out of contention and was hired as a City Hall adviser instead?"
   },
   {
     "id": 4,
-    "question": "Which craft brewer did NOT originate in California?",
-    "section": "Part Two: A BREWING STORM"
+    "question": "What activist group pushed for harassment and discrimination reforms for city employees?"
   },
   {
     "id": 5,
-    "question": "Which brewer did NOT originate in Bend, Oregon?",
-    "section": "Part Two: A BREWING STORM"
+    "question": "For which workers did the city pass new rights, including rest breaks and representation on a special board?"
   },
   {
     "id": 6,
-    "question": "The first post-prohibition brewpub in the United States opened in 1983 in:",
-    "section": "Part Two: A BREWING STORM"
+    "question": "What qualified a business to be subject to the head tax?"
   },
   {
     "id": 7,
-    "question": "Which is NOT a craft brewer based in Seattle?",
-    "section": "Part Two: A BREWING STORM"
+    "question": "How many days passed between Seattle adopting and repealing a controversial head tax on large businesses?"
   },
   {
     "id": 8,
-    "question": "Which of these nations does NOT touch Russia?",
-    "section": "Part Three: TOUCHY, TOUCHY"
+    "question": "What percentage of Seattle voters approved the Families, Education, Pre-School and Promise Levy?"
   },
   {
     "id": 9,
-    "question": "Which of these touches the Arctic Circle?",
-    "section": "Part Three: TOUCHY, TOUCHY"
+    "question": "By how much did the City Council change Durkan's $5.6 billion 2019 budget?"
   },
   {
     "id": 10,
-    "question": "Which of these does NOT touch the Indian Ocean?",
-    "section": "Part Three: TOUCHY, TOUCHY"
+    "question": "Which Seattle government departments lack permanent leaders?"
   },
   {
     "id": 11,
-    "question": "Which of these touches the Mississippi River?",
-    "section": "Part Three: TOUCHY, TOUCHY"
+    "question": "How many months has Seattle's First Avenue Streetcar project been on hold?"
   },
   {
     "id": 12,
-    "question": "Which of these touches Canada?",
-    "section": "Part Three: TOUCHY, TOUCHY"
-  },
-  {
-    "id": 13,
-    "question": "The Chattahoochee River forms part of the boundary of which two states?",
-    "section": "Part Four: STATES OF MIND"
-  },
-  {
-    "id": 14,
-    "question": "In a printed and bound Rand McNally map of the United States, which of these state groupings crosses the center gutter:",
-    "section": "Part Four: STATES OF MIND"
-  },
-  {
-    "id": 15,
-    "question": "Which of these states extends farthest west?",
-    "section": "Part Four: STATES OF MIND"
-  },
-  {
-    "id": 16,
-    "question": "Which of these states’ names does NOT have Native American origins?",
-    "section": "Part Four: STATES OF MIND"
-  },
-  {
-    "id": 17,
-    "question": "Which of these states is NOT crossed by Interstate 90?",
-    "section": "Part Four: STATES OF MIND"
-  },
-  {
-    "id": 18,
-    "question": "The Snake River slithers through which of these federally managed parks, monuments or recreation areas?",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 19,
-    "question": "Which is NOT a national wildlife refuge in the Pacific Northwest?",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 20,
-    "question": "Which of these “burgs” is NOT a real town?",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 21,
-    "question": "Which of these groupings of Washington geographic names is the “odd man out,” differing from the others in a fundamental way?",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 22,
-    "question": "Which of these American presidents does NOT have a Washington county named after him?",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 23,
-    "question": "Which of these Middle Eastern names does NOT also belong to a community in Oregon?",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 24,
-    "question": "If you bought a boat in Lewiston, Idaho, and delivered it by river to a marina in Astoria, Oregon, by the most direct route, which of these towns would you NOT see along the way?",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 25,
-    "question": "What is NOT the name of a Northwest mountain range? ",
-    "section": "Part Five: IN OUR CORNER"
-  },
-  {
-    "id": 26,
-    "question": "Guided by international airport codes, if you fly from SEA to OGG but your bags end up at PDX, what airport do you land at and where’s your wayward luggage?",
-    "section": "Part Six: CODE IN YOUR HEAD"
-  },
-  {
-    "id": 27,
-    "question": "If you fly from SEA to SMF but your Chihuahua’s “sky kennel” ends up at STL, what airport do you land at and where’s little Cisco?",
-    "section": "Part Six: CODE IN YOUR HEAD"
-  },
-  {
-    "id": 28,
-    "question": "If you book a flight from SEA to LGA but your partner accidentally gets ticketed to LGB, where do you land and where’s your lonesome sweetie?",
-    "section": "Part Six: CODE IN YOUR HEAD"
-  },
-  {
-    "id": 29,
-    "question": "Which is NOT the capital of a state in Australia?",
-    "section": "Part Seven: THE 7 CONTINENTS"
-  },
-  {
-    "id": 30,
-    "question": "The easternmost tip of South America has approximately the same longitude (the vertical lines on a globe) as:",
-    "section": "Part Seven: THE 7 CONTINENTS"
-  },
-  {
-    "id": 31,
-    "question": "Which of these African nations is NOT crossed by the equator?",
-    "section": "Part Seven: THE 7 CONTINENTS"
-  },
-  {
-    "id": 32,
-    "question": "A North American department-store chain is named for which of these bodies of water?",
-    "section": "Part Seven: THE 7 CONTINENTS"
-  },
-  {
-    "id": 33,
-    "question": "Which of these pairings of European automakers and their nations of origin is NOT correct?",
-    "section": "Part Seven: THE 7 CONTINENTS"
-  },
-  {
-    "id": 34,
-    "question": "How many Western Asian nations’ names end in “stan”?",
-    "section": "Part Seven: THE 7 CONTINENTS"
-  },
-  {
-    "id": 35,
-    "question": "The Arctic Circle marks the northernmost point at which the noon sun is just visible on the northern winter solstice and the southernmost point at which the midnight sun is just visible on the northern summer solstice. It touches eight nations on three continents. Its southerly counterpart, the Antarctic Circle, touches how many continents?",
-    "section": "Part Seven: THE 7 CONTINENTS"
-  },
-  {
-    "id": 36,
-    "question": "Name that festival:",
-    "image": 1,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Leo Correa / The Associated Press"
-  },
-  {
-    "id": 37,
-    "question": "Name that festival:",
-    "image": 2,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Luis Soto / The Associated Press"
-  },
-  {
-    "id": 38,
-    "question": "Name that festival:",
-    "image": 3,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Darryl Dyck / The Associated Press"
-  },
-  {
-    "id": 39,
-    "question": "Name that festival:",
-    "image": 4,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Ian Forsyth / Getty Images"
-  },
-  {
-    "id": 40,
-    "question": "Name that festival:",
-    "image": 5,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Abir Abdullah / EPA"
-  },
-  {
-    "id": 41,
-    "question": "What's that skyscraper?",
-    "image": 6,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Michael Appleton / NYT"
-  },
-  {
-    "id": 42,
-    "question": "What's that skyscraper?",
-    "image": 7,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Cameron Hewitt"
-  },
-  {
-    "id": 43,
-    "question": "What's that skyscraper?",
-    "image": 8,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Ellen M. Banner / The Seattle Times"
-  },
-  {
-    "id": 44,
-    "question": "What's that skyscraper?",
-    "image": 9,
-    "section": "Part Eight: PHOTO QUIZ",
-    "caption": "Kamran Jebreili / The Associated Press"
+    "question": "What did City Hall open to adddress homelessness in 2018?"
   }
 ]

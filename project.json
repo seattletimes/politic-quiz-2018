@@ -2,7 +2,7 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": ""
+      "path": "undue-upgrade"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
@@ -11,11 +11,11 @@
   },
   "title": "",
   "description": "",
-  "url": "http://projects.seattletimes.com/2018/quizzes/politics-quiz-2018/",
+  "url": "https://projects.seattletimes.com/2018/quizzes/politics-quiz-2018/",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/social.jpg",
-  "sheets": ["1JS2ocK4y_JvhBPN8deWwE7_YdPvQJ0KL5SywuS3Vdg0"],
-  "production": false,
+  "sheets": ["1GtD-OvFkeoj87mOCG96ZaSxbNkpmgv746I3I6OosX9Q"],
+  "production": true,
   "embedded": true
 }

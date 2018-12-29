@@ -1,26 +1,26 @@
 [
   {
     "min": 0,
-    "max": 10,
-    "title": "Level One",
-    "description": "Stowaway (Keep the lavatory door locked until takeoff)"
+    "max": 2,
+    "title": "Politics novice",
+    "description": "You didn't pay much attention in 2018."
   },
   {
-    "min": 11,
-    "max": 25,
-    "title": "Level Two",
-    "description": "Coach (Board early or the bins will be full)"
+    "min": 3,
+    "max": 5,
+    "title": "Casual onlooker",
+    "description": "You read the headlines this year."
   },
   {
-    "min": 26,
-    "max": 35,
-    "title": "Level Three",
-    "description": "Business Class (Double peanuts for you)"
+    "min": 6,
+    "max": 8,
+    "title": "Astute observer",
+    "description": "You read both the headlines and the stories this year."
   },
   {
-    "min": 36,
-    "max": 44,
-    "title": "Level Four",
-    "description": "First Class (Have an extra flute of Pol Roger)"
+    "min": 10,
+    "max": 12,
+    "title": "Politics buff",
+    "description": "You watched the Seattle Channel for fun in 2018."
   }
 ]

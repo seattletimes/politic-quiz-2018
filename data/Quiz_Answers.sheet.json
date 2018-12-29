@@ -1,750 +1,218 @@
 [
   {
     "id": 1,
-    "answer": "Reykjavik"
+    "answer": "Cleveland High School"
   },
   {
     "id": 1,
-    "answer": "Pyongyang"
+    "answer": "Rainier Beach High School",
+    "correct": "In her big speech at Rainer Beach High School, Durkan said unequal prosperity was threatening \"the soul of our city.\"",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-passes-mayor-jenny-durkans-5-9-billion-budget/"
   },
   {
     "id": 1,
-    "answer": "Karachi"
+    "answer": "West Seattle High School"
   },
   {
     "id": 1,
-    "answer": "Novosibirsk",
-    "correct": "The Samoyed breed originated in the Siberian region of Russia. Novosibirsk is a city in Siberia."
+    "answer": "Roosevelt High School"
   },
   {
     "id": 2,
-    "answer": "Wiesbaden",
-    "correct": "Wiesbaden is a city in Germany."
+    "answer": "Residents over 65"
   },
   {
     "id": 2,
-    "answer": "Amsterdam"
+    "answer": "All college students"
   },
   {
     "id": 2,
-    "answer": "Bucharest"
+    "answer": "Public high school students",
+    "correct": "Durkan and the City Council dedicated up to $7 million per year to make bus and light-rail rides free for Seattle public high school students and students attending Seattle Colleges on city scholarships.",
+    "link": "https://www.seattletimes.com/seattle-news/transportation/seattle-city-council-approves-free-bus-passes-for-high-school-students/"
   },
   {
     "id": 2,
-    "answer": "Kiev"
+    "answer": "All high school students"
   },
   {
     "id": 3,
-    "answer": "Antwerp"
+    "answer": "Cameron McLay",
+    "correct": "Cameron McLay's exit created an opening for interim Chief Carmen Best to be added as a finalist and to win the permanent job.",
+    "link": "https://www.seattletimes.com/seattle-news/former-pittsburgh-police-chief-once-a-finalist-for-seattle-job-has-been-hired-by-the-city-as-an-adviser/"
   },
   {
     "id": 3,
-    "answer": "Lille",
-    "correct": "Lille is a city in France."
+    "answer": "Eddie Frizell"
   },
   {
     "id": 3,
-    "answer": "Darwin"
+    "answer": "Carmen Best"
   },
   {
     "id": 3,
-    "answer": "Algiers"
+    "answer": "Eli Reyes"
   },
   {
     "id": 4,
-    "answer": "Sierra Nevada Brewing"
+    "answer": "Me Too Seattle"
   },
   {
     "id": 4,
-    "answer": " Lagunitas Brewing"
+    "answer": "Speak Out Seattle"
   },
   {
     "id": 4,
-    "answer": " Left Coast Brewing Co."
+    "answer": "Hands Off Seattle"
   },
   {
     "id": 4,
-    "answer": "Deschutes Brewery",
-    "correct": "Deschutes Brewery originated in Oregon."
+    "answer": "Seattle Silence Breakers",
+    "correct": "The Seattle Silence Breakers were represented on a city panel that recommended changes to the Seattle's workplace-misconduct policies.",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-mayor-jenny-durkan-creates-new-unit-to-investigate-city-workplace-misconduct/"
   },
   {
     "id": 5,
-    "answer": "Ninkasi Brewing Co.",
-    "correct": "Ninkasi is based in Eugene, Oregon."
+    "answer": "Hotel workers"
   },
   {
     "id": 5,
-    "answer": "10 Barrel Brewing Co."
+    "answer": "Domestic workers",
+    "correct": "Domestic workers will have representatitves on a 13-member, appointed board that will advise City Hall on regulations for their industry, including worker benefits.",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-mayor-jenny-durkan-creates-new-unit-to-investigate-city-workplace-misconduct/"
   },
   {
     "id": 5,
-    "answer": "Crux Fermentation Project"
+    "answer": "Uber drivers"
   },
   {
     "id": 5,
-    "answer": "Boneyard Beer"
-  },
-  {
-    "id": 6,
-    "answer": "Chicago, Illinois"
-  },
-  {
-    "id": 6,
-    "answer": " Montpelier, Vermont"
-  },
-  {
-    "id": 6,
-    "answer": "Yakima, Washington",
-    "correct": "Grant's Brewery Pub, Yakima"
-  },
-  {
-    "id": 6,
-    "answer": "Taos, New Mexico"
+    "answer": "Supermarket workers"
   },
   {
     "id": 7,
-    "answer": "Pike Brewing Co."
+    "answer": 18
   },
   {
     "id": 7,
-    "answer": "Holy Mountain Brewing Co."
+    "answer": 25
   },
   {
     "id": 7,
-    "answer": " Ivar’s IPAs",
-    "correct": "Ivar’s is a seafood restaurant, not a brewery. "
+    "answer": 29,
+    "correct": "The council passed the measure on May 14 and repealed it on June 12, 29 days later, as opponents of the tax prepared to submit petition signatures to put a referendum on the ballot.",
+    "link": "https://www.seattletimes.com/seattle-news/politics/about-face-seattle-city-council-repeals-head-tax-amid-pressure-from-big-businesses/"
   },
   {
     "id": 7,
-    "answer": "Mollusk Brewing"
+    "answer": 44
+  },
+  {
+    "id": 6,
+    "answer": "$10 million annual gross revenue"
+  },
+  {
+    "id": 6,
+    "answer": "$30 million annual gross revenue",
+    "correct": "Using $30 million in gross annual revenue as the cutoff, the city said about 585 businesses would need to pay the new, per-employee tax for housing and homeless services.",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-votes-9-0-for-scaled-down-head-tax-on-large-employers/"
+  },
+  {
+    "id": 6,
+    "answer": "$20 million annual net revenue"
+  },
+  {
+    "id": 6,
+    "answer": "$5 million annual net revenue"
   },
   {
     "id": 8,
-    "answer": "North Korea"
+    "answer": "63 percent"
   },
   {
     "id": 8,
-    "answer": "Azerbaijan"
+    "answer": "51 percent"
   },
   {
     "id": 8,
-    "answer": "Iran",
-    "correct": "x"
+    "answer": "93 percent"
   },
   {
     "id": 8,
-    "answer": "Norway"
+    "answer": "69 percent",
+    "correct": "The $600 million-plus property-tax measure for preschool, K-12 and community-college programs won 69 percent of the vote in November.",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattles-600-million-plus-education-levy-leads-by-a-wide-margin/"
   },
   {
     "id": 9,
-    "answer": "Greenland",
-    "correct": "x"
+    "answer": "$1.2 billion"
   },
   {
     "id": 9,
-    "answer": "Manitoba"
+    "answer": "$1.2 million"
   },
   {
     "id": 9,
-    "answer": "Shetland Islands"
+    "answer": "$16 million",
+    "correct": "The council made $16 million in small adds and cuts. Only Councilmember Kshama Sawant voted against what she called an \"austerity budget\" after her colleagues declined to support her push to revive the head tax.",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-passes-mayor-jenny-durkans-5-9-billion-budget/"
   },
   {
     "id": 9,
-    "answer": "Gulf of Alaska"
+    "answer": "$160 million"
   },
   {
     "id": 10,
-    "answer": "Sri Lanka"
+    "answer": "Parks and IT",
+    "correct": "Durkan nominated Sam Zimbabwe as transportation director in December but has yet to appoint permanent leaders for other departments, including parks and information technology.",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-mayor-jenny-durkan-nominates-permanent-leaders-for-human-services-civil-rights/"
   },
   {
     "id": 10,
-    "answer": "Madagascar"
+    "answer": "City Light and fire"
   },
   {
     "id": 10,
-    "answer": " Perth, Australia"
+    "answer": "Planning and education"
   },
   {
     "id": 10,
-    "answer": " Angola",
-    "correct": "x"
+    "answer": "Police and finance"
   },
   {
     "id": 11,
-    "answer": "Cedar Rapids, Iowa"
+    "answer": 3
   },
   {
     "id": 11,
-    "answer": "Memphis, Tennessee",
-    "correct": "x"
+    "answer": 6
   },
   {
     "id": 11,
-    "answer": "Lake Charles, Louisiana"
+    "answer": 9,
+    "correct": "The mayor halted the project in late March, nine months ago, after a review said costs had grown by $23 million.",
+    "link": "https://www.seattletimes.com/seattle-news/transportation/seattle-mayor-jenny-durkan-halts-streetcar-expansion-project-as-costs-jump-to-200m/"
   },
   {
     "id": 11,
-    "answer": "Evansville, Indiana"
+    "answer": 12
   },
   {
     "id": 12,
-    "answer": "Wyoming"
+    "answer": "A tiny-house village for women ",
+    "correct": "Seattle opened a tiny-house village for women in Whittier Heights in July. King County plans to open a jail-wing shelter in early 2019.",
+    "link": "https://www.seattletimes.com/seattle-news/tiny-home-village-for-women-opens-in-north-seattle/"
   },
   {
     "id": 12,
-    "answer": "Illinois"
+    "answer": "A shelter under a giant tent"
   },
   {
     "id": 12,
-    "answer": "New Jersey"
+    "answer": "A shelter in an unused jail wing "
   },
   {
     "id": 12,
-    "answer": "None of the above",
-    "correct": "x"
-  },
-  {
-    "id": 13,
-    "answer": "Kentucky and West Virginia"
-  },
-  {
-    "id": 13,
-    "answer": "Alabama and Georgia",
-    "correct": "x"
-  },
-  {
-    "id": 13,
-    "answer": "Maine and New Hampshire"
-  },
-  {
-    "id": 13,
-    "answer": "Texas and Oklahoma"
-  },
-  {
-    "id": 14,
-    "answer": "Wyoming, Colorado and New Mexico"
-  },
-  {
-    "id": 14,
-    "answer": "Wisconsin, Illinois and Missouri"
-  },
-  {
-    "id": 14,
-    "answer": "Nebraska, Kansas and Oklahoma",
-    "correct": "x"
-  },
-  {
-    "id": 14,
-    "answer": "Montana, Utah and Arizona"
-  },
-  {
-    "id": 15,
-    "answer": "Nevada",
-    "correct": "x"
-  },
-  {
-    "id": 15,
-    "answer": "Arizona"
-  },
-  {
-    "id": 15,
-    "answer": " Idaho"
-  },
-  {
-    "id": 15,
-    "answer": "Arkansas"
-  },
-  {
-    "id": 16,
-    "answer": "Nebraska"
-  },
-  {
-    "id": 16,
-    "answer": "Florida",
-    "correct": "It’s believed Spanish explorer Juan Ponce de León bequeathed the name La Florida, “land of flowers.”"
-  },
-  {
-    "id": 16,
-    "answer": " Minnesota"
-  },
-  {
-    "id": 16,
-    "answer": "Mississippi"
-  },
-  {
-    "id": 17,
-    "answer": "New York"
-  },
-  {
-    "id": 17,
-    "answer": "North Dakota",
-    "correct": "x"
-  },
-  {
-    "id": 17,
-    "answer": "Wisconsin"
-  },
-  {
-    "id": 17,
-    "answer": "Massachusetts"
-  },
-  {
-    "id": 18,
-    "answer": "Yellowstone and Hells Canyon",
-    "correct": "The river originates in Yellowstone National Park in Wyoming before transiting Idaho, Oregon and Washington."
-  },
-  {
-    "id": 18,
-    "answer": "Craters of the Moon and Hanford Reach"
-  },
-  {
-    "id": 18,
-    "answer": "Mount Rainier and Lake Chelan"
-  },
-  {
-    "id": 18,
-    "answer": "Crater Lake and Oregon Dunes"
-  },
-  {
-    "id": 19,
-    "answer": "Billy Frank Jr. Nisqually National Wildlife Refuge"
-  },
-  {
-    "id": 19,
-    "answer": "Malheur National Wildlife Refuge"
-  },
-  {
-    "id": 19,
-    "answer": "Willapa National Wildlife Refuge"
-  },
-  {
-    "id": 19,
-    "answer": "Rocket J. Squirrel National Wildlife Refuge ",
-    "correct": "x"
-  },
-  {
-    "id": 20,
-    "answer": "Waitsburg, Washington"
-  },
-  {
-    "id": 20,
-    "answer": "Rexburg, Idaho"
-  },
-  {
-    "id": 20,
-    "answer": " Iceburg, British Columbia",
-    "correct": "x"
-  },
-  {
-    "id": 20,
-    "answer": "Coburg, Oregon"
-  },
-  {
-    "id": 21,
-    "answer": "Pilchuck, Whitehorse, Baker"
-  },
-  {
-    "id": 21,
-    "answer": "Ephrata, Lynden, Goldendale",
-    "correct": "These are towns. The others are mountain peaks."
-  },
-  {
-    "id": 21,
-    "answer": "Shuksan, Silver Star, Olympus"
-  },
-  {
-    "id": 21,
-    "answer": "Adams, St. Helens, Stuart"
-  },
-  {
-    "id": 22,
-    "answer": "John Adams"
-  },
-  {
-    "id": 22,
-    "answer": "Thomas Jefferson"
-  },
-  {
-    "id": 22,
-    "answer": "Ulysses S. Grant"
-  },
-  {
-    "id": 22,
-    "answer": " Woodrow Wilson",
-    "correct": "x"
-  },
-  {
-    "id": 23,
-    "answer": "Jordan Valley"
-  },
-  {
-    "id": 23,
-    "answer": "Beirut",
-    "correct": "x"
-  },
-  {
-    "id": 23,
-    "answer": "Lebanon"
-  },
-  {
-    "id": 23,
-    "answer": "Damascus"
-  },
-  {
-    "id": 24,
-    "answer": "Kettle Falls, Washington",
-    "correct": "x"
-  },
-  {
-    "id": 24,
-    "answer": "Umatilla, Oregon"
-  },
-  {
-    "id": 24,
-    "answer": "Vancouver, Washington"
-  },
-  {
-    "id": 24,
-    "answer": "Clarkston, Washington"
-  },
-  {
-    "id": 25,
-    "answer": "Bitterroot"
-  },
-  {
-    "id": 25,
-    "answer": "Selkirk"
-  },
-  {
-    "id": 25,
-    "answer": "Wallowa"
-  },
-  {
-    "id": 25,
-    "answer": "Katahdin",
-    "correct": "Mount Katahdin is the highest peak in Maine."
-  },
-  {
-    "id": 26,
-    "answer": "You’re in Maui, your bags are in Portland",
-    "correct": "x"
-  },
-  {
-    "id": 26,
-    "answer": "Oklahoma City and Phoenix"
-  },
-  {
-    "id": 26,
-    "answer": "Orange County and Philadelphia"
-  },
-  {
-    "id": 26,
-    "answer": "Orlando and St. Petersburg"
-  },
-  {
-    "id": 27,
-    "answer": "You’re in Santa Fe, but your pooch is in Salt Lake City."
-  },
-  {
-    "id": 27,
-    "answer": "Sacramento and St. Louis",
-    "correct": "x"
-  },
-  {
-    "id": 27,
-    "answer": "San Francisco and St. Paul"
-  },
-  {
-    "id": 27,
-    "answer": "San Diego and San Jose"
-  },
-  {
-    "id": 28,
-    "answer": "You’re in New York City and your honeybunch is in Long Beach, Calif.",
-    "correct": "LGA is the code for New York's LaGuardia Airport."
-  },
-  {
-    "id": 28,
-    "answer": "Laguna Beach and Lagos"
-  },
-  {
-    "id": 28,
-    "answer": "London (Gatwick) and Lincoln, Neb."
-  },
-  {
-    "id": 28,
-    "answer": " Lake of the Woods, Minn., and Long Island, N.Y."
-  },
-  {
-    "id": 29,
-    "answer": "Brisbane"
-  },
-  {
-    "id": 29,
-    "answer": "Adelaide"
-  },
-  {
-    "id": 29,
-    "answer": "Billabong",
-    "correct": "x"
-  },
-  {
-    "id": 29,
-    "answer": "Sydney"
-  },
-  {
-    "id": 30,
-    "answer": "Mashpee, Massachusetts"
-  },
-  {
-    "id": 30,
-    "answer": " Mar-a-Lago Club, Florida"
-  },
-  {
-    "id": 30,
-    "answer": "Cabo San Lucas, Mexico"
-  },
-  {
-    "id": 30,
-    "answer": "Greenland",
-    "correct": "x"
-  },
-  {
-    "id": 31,
-    "answer": "Kenya"
-  },
-  {
-    "id": 31,
-    "answer": "Uganda"
-  },
-  {
-    "id": 31,
-    "answer": "Egypt",
-    "correct": "x"
-  },
-  {
-    "id": 31,
-    "answer": "Gabon "
-  },
-  {
-    "id": 32,
-    "answer": "Hudson Bay",
-    "correct": "Hudson Bay lent its name to the Hudson’s Bay Co., a 17th-century fur-trading company that morphed into a chain of stores across Canada known colloquially as The Bay."
-  },
-  {
-    "id": 32,
-    "answer": "Chesapeake Bay"
-  },
-  {
-    "id": 32,
-    "answer": "Mowich Lake"
-  },
-  {
-    "id": 32,
-    "answer": "Humptulips River"
-  },
-  {
-    "id": 33,
-    "answer": "Renault and France"
-  },
-  {
-    "id": 33,
-    "answer": "Volvo and Finland",
-    "correct": "Volvo originated in Sweden."
-  },
-  {
-    "id": 33,
-    "answer": "Bentley and Great Britain"
-  },
-  {
-    "id": 33,
-    "answer": "Audi and Germany"
-  },
-  {
-    "id": 34,
-    "answer": 7,
-    "correct": "The Oxford Atlas of the World shows Afghanistan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan and Uzbekistan."
-  },
-  {
-    "id": 34,
-    "answer": 2
-  },
-  {
-    "id": 34,
-    "answer": 13
-  },
-  {
-    "id": 34,
-    "answer": "Gosh, they pretty much all do."
-  },
-  {
-    "id": 35,
-    "answer": 2
-  },
-  {
-    "id": 35,
-    "answer": 4
-  },
-  {
-    "id": 35,
-    "answer": 7
-  },
-  {
-    "id": 35,
-    "answer": 1,
-    "correct": "The Antarctic Circle touches only Antarctica and its surrounding seas."
-  },
-  {
-    "id": 36,
-    "answer": "The Aliens Have Landed Festival, Roswell, New Mexico"
-  },
-  {
-    "id": 36,
-    "answer": "Ice Cream Cone Hat Fest, New Orleans"
-  },
-  {
-    "id": 36,
-    "answer": "Samba Festival, Rio de Janeiro",
-    "correct": "x"
-  },
-  {
-    "id": 36,
-    "answer": "Spring Carnival, Salt Lake City "
-  },
-  {
-    "id": 37,
-    "answer": "Fiesta of the Snakes, Tijuana, Mexico"
-  },
-  {
-    "id": 37,
-    "answer": "Festival of Saint Thomas, Chichicastenango, Guatemala",
-    "correct": "The celebration evokes the migration of Mexicans to Guatemalan farms and honors the Mayan town’s patron saint."
-  },
-  {
-    "id": 37,
-    "answer": "Rattlesnake Roundup, Santa Fe"
-  },
-  {
-    "id": 37,
-    "answer": "Snake Eyes Festival, Las Vegas"
-  },
-  {
-    "id": 38,
-    "answer": "Dragonpalooza, Oakland, Calif."
-  },
-  {
-    "id": 38,
-    "answer": "Chinese Lantern Festival, Vancouver, B.C.",
-    "correct": "x"
-  },
-  {
-    "id": 38,
-    "answer": "Smaug Fest, Wellington, New Zealand"
-  },
-  {
-    "id": 38,
-    "answer": "Nessie Days, Loch Ness, Scotland"
-  },
-  {
-    "id": 39,
-    "answer": "Festival of Sankta Lucia, York, England",
-    "correct": "The traditional Swedish festival celebrates the bringer of light during the long winter. This event was run in partnership with the York Anglo-Scandinavian Society. "
-  },
-  {
-    "id": 39,
-    "answer": "Merlin's Magical Monday, Cardiff, Wales"
-  },
-  {
-    "id": 39,
-    "answer": "Candelabra Day, Stockholm"
-  },
-  {
-    "id": 39,
-    "answer": "Nathan Bedford Forrest's Birthday, Chapel Hill, Tennessee"
-  },
-  {
-    "id": 40,
-    "answer": "Night of the Scarlet Sword, Thimphu, Bhutan"
-  },
-  {
-    "id": 40,
-    "answer": "Red Clay Fest, Rabun County, Georgia"
-  },
-  {
-    "id": 40,
-    "answer": "Hibiscus Hoedown, Hilo, Hawaii"
-  },
-  {
-    "id": 40,
-    "answer": " Red Glass Festival, Munshigonj, Bangladesh ",
-    "correct": "Hindu males paint themselves red and wield swords to show power against evil and welcome the Bengali New Year."
-  },
-  {
-    "id": 41,
-    "answer": "The Big Finger, Hamburg"
-  },
-  {
-    "id": 41,
-    "answer": "One World Trade Center, New York City",
-    "correct": "Known colloquially as Freedom Tower. At 1,776 feet (yes, that was intentional), it is the tallest building in the Western Hemisphere."
-  },
-  {
-    "id": 41,
-    "answer": "Heaven's Gate, Houston"
-  },
-  {
-    "id": 41,
-    "answer": "Pacific Pillar, San Francisco"
-  },
-  {
-    "id": 42,
-    "answer": "Der Zahnstocher (The Toothpick), Berlin"
-  },
-  {
-    "id": 42,
-    "answer": "The Knitting Needle, Oklahoma City"
-  },
-  {
-    "id": 42,
-    "answer": "The Shard, London",
-    "correct": "At 1,020 feet, it is the tallest building in the United Kingdom."
-  },
-  {
-    "id": 42,
-    "answer": "The Cattle Prod, Dallas"
-  },
-  {
-    "id": 43,
-    "answer": " Marcus Whitman Hotel, Walla Walla"
-  },
-  {
-    "id": 43,
-    "answer": "Typewriter Tower, Topeka, Kansas"
-  },
-  {
-    "id": 43,
-    "answer": "Ivory Tower, Cambridge, Mass."
-  },
-  {
-    "id": 43,
-    "answer": "Smith Tower, Seattle",
-    "correct": "When built in 1914, at 484 feet Smith Tower was the tallest U.S. building west of the Mississippi."
-  },
-  {
-    "id": 44,
-    "answer": "Pompous Pyramid, Riyadh"
-  },
-  {
-    "id": 44,
-    "answer": "The Burj Khalifa, Dubai",
-    "correct": "At 2,722 feet, it has been the tallest free-standing structure on Earth since it topped out in 2008. "
-  },
-  {
-    "id": 44,
-    "answer": "The Stiletto, Milan"
-  },
-  {
-    "id": 44,
-    "answer": " State Farm Tower, Bloomington, Illinois"
+    "answer": "A shelter at KeyArena"
   }
 ]
