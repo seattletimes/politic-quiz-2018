@@ -1,50 +1,62 @@
 [
   {
     "id": 1,
-    "question": "Where did Seattle Mayor Jenny Durkan deliver her State of the City address?"
+    "question": "Where did Seattle Mayor Jenny Durkan deliver her State of the City address?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-passes-mayor-jenny-durkans-5-9-billion-budget/"
   },
   {
     "id": 2,
-    "question": "Whom did the city provide with free transit passes?"
+    "question": "Whom did the city provide with free transit passes?",
+    "link": "https://www.seattletimes.com/seattle-news/transportation/seattle-city-council-approves-free-bus-passes-for-high-school-students/"
   },
   {
     "id": 3,
-    "question": "Which Seattle police chief finalist dropped out of contention and was hired as a City Hall adviser instead?"
+    "question": "Which Seattle police chief finalist dropped out of contention and was hired as a City Hall adviser instead?",
+    "link": "https://www.seattletimes.com/seattle-news/former-pittsburgh-police-chief-once-a-finalist-for-seattle-job-has-been-hired-by-the-city-as-an-adviser/"
   },
   {
     "id": 4,
-    "question": "What activist group pushed for harassment and discrimination reforms for city employees?"
+    "question": "What activist group pushed for harassment and discrimination reforms for city employees?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-mayor-jenny-durkan-creates-new-unit-to-investigate-city-workplace-misconduct/"
   },
   {
     "id": 5,
-    "question": "For which workers did the city pass new rights, including rest breaks and representation on a special board?"
+    "question": "For which workers did the city pass new rights, including rest breaks and representation on a special board?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-mayor-jenny-durkan-creates-new-unit-to-investigate-city-workplace-misconduct/"
   },
   {
     "id": 6,
-    "question": "What qualified a business to be subject to the head tax?"
+    "question": "What qualified a business to be subject to the head tax?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-votes-9-0-for-scaled-down-head-tax-on-large-employers/"
   },
   {
     "id": 7,
-    "question": "How many days passed between Seattle adopting and repealing a controversial head tax on large businesses?"
+    "question": "How many days passed between Seattle adopting and repealing a controversial head tax on large businesses?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/about-face-seattle-city-council-repeals-head-tax-amid-pressure-from-big-businesses/"
   },
   {
     "id": 8,
-    "question": "What percentage of Seattle voters approved the Families, Education, Pre-School and Promise Levy?"
+    "question": "What percentage of Seattle voters approved the Families, Education, Pre-School and Promise Levy?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattles-600-million-plus-education-levy-leads-by-a-wide-margin/"
   },
   {
     "id": 9,
-    "question": "By how much did the City Council change Durkan's $5.6 billion 2019 budget?"
+    "question": "By how much did the City Council change Durkan's $5.6 billion 2019 budget?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-city-council-passes-mayor-jenny-durkans-5-9-billion-budget/"
   },
   {
     "id": 10,
-    "question": "Which Seattle government departments lack permanent leaders?"
+    "question": "Which Seattle government departments lack permanent leaders?",
+    "link": "https://www.seattletimes.com/seattle-news/politics/seattle-mayor-jenny-durkan-nominates-permanent-leaders-for-human-services-civil-rights/"
   },
   {
     "id": 11,
-    "question": "How many months has Seattle's First Avenue Streetcar project been on hold?"
+    "question": "How many months has Seattle's First Avenue Streetcar project been on hold?",
+    "link": "https://www.seattletimes.com/seattle-news/transportation/seattle-mayor-jenny-durkan-halts-streetcar-expansion-project-as-costs-jump-to-200m/"
   },
   {
     "id": 12,
-    "question": "What did City Hall open to adddress homelessness in 2018?"
+    "question": "What did City Hall open to adddress homelessness in 2018?",
+    "link": "https://www.seattletimes.com/seattle-news/tiny-home-village-for-women-opens-in-north-seattle/"
   }
 ]
